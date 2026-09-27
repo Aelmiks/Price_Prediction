@@ -1,0 +1,11 @@
+{
+  "source_language": ["Arabic","Bengali","Chinese","Dutch","English","French","German","Hebrew","Hindi","Italian","Japanese","Korean","Polish","Portuguese","Russian","Spanish","Turkish","Ukrainian","Urdu","Vietnamese"],
+  "target_language": ["Arabic","Bengali","Chinese","Dutch","English","French","German","Hebrew","Hindi","Italian","Japanese","Korean","Polish","Portuguese","Russian","Spanish","Turkish","Ukrainian","Urdu","Vietnamese"],
+  "unit": ["page","minute","word"],
+  "doc_category": ["Academic","Banking","Business","Civil register","Criminal record","Deeds","Employment","Insurance","Law","Medical","Police","Real estate","Taxes","Vehicles","Other category"],
+  "doc_subcategory": [
+    "Diploma","Transcript","Birth certificate","Marriage certificate","Death certificate",
+    "National ID card","Driver’s license","Passport","Criminal record extract",
+    "Bank statement","Invoice","Employment contract","Lease agreement","Power of attorney"
+  ]
+}
